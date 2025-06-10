@@ -1,6 +1,6 @@
 # About me
 
-- 🔭 I’m currently working on an AI software for youth basketball coaches.
+- 🔭 I’m currently working on an AI sports betting app.
 - 🌱 I’m currently learning data science.
 - ⚡ Fun fact: I was on the game show WIPEOUT.
 
